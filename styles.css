@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.btn.btn-link{
+    color: #e8e8e8;
+}
+
+.space{
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+.bg-uno{
+    background-image: url("img/main.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-dos{
+    background-image: url("img/dos.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+#inicio{
+    width: 100%;
+}
