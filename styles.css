@@ -2,16 +2,12 @@
     color: #e8e8e8;
 }
 
-.space{
-    margin-top: 20%;
-    margin-bottom: 20%;
-}
-
 .bg-uno{
     height: 810px;
+    padding: 0;
 }
 
-.main_image{
+.main-image{
     position: absolute;
     width: 100%;
     height: 810px;
@@ -21,14 +17,11 @@
     z-index: -1;
 }
 
-.bg-dos{
-    background-image: url("img/dos.jpg");
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover; 
-}
-
 #inicio{
     width: 100%;
+}
+
+#pag3-col2{
+    margin-left: 40px;
+    margin-top: 10%;
 }
